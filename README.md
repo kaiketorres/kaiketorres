@@ -1,6 +1,8 @@
 ## Oiii eu sou a Kaike torres, Estudante de desenvolvimento web
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="KT-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
