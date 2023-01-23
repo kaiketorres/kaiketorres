@@ -1,4 +1,4 @@
-## Oiii eu sou a Kaike torres, Estudante de desenvolvimento web👨‍💻
+## Oiii eu sou a Kaike torres, estudante de Desenvolvimento web👨‍💻
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiketorres&layout=compact)](https://github.com/kaiketorres-readme-stats)
