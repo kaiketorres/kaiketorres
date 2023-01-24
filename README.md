@@ -1,7 +1,12 @@
 ## Oiii eu sou a Kaike torres, estudante de Desenvolvimento web👨‍💻
 
 
-![kaiketorres GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiketorres&show_icons=true&theme=radical)
+<hr>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathalya-ricci&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="nathalya-ricci" />
+</div>
 
 
 <div style="display: inline_block"><br>
