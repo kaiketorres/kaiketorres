@@ -4,7 +4,7 @@
 <hr>
 <br>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathalya-ricci&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="nathalya-ricci" />
 </div>
 
