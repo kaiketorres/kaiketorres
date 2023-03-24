@@ -1,7 +1,6 @@
 ## Oiii eu sou a Kaike torres, estudante de Desenvolvimento web👨‍💻
 
 <hr>
-<br>
 
 - 🔭 Apaixonado por tecnologia
 
