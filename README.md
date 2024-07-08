@@ -9,7 +9,7 @@
   
 <!-- Introdução -->
 <h2 align="center">
-        <samp>&gt; Olá, eu sou kaike</samp>
+      
 </h2\>
 
 <p align="center"> 
