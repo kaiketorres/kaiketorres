@@ -5,8 +5,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/kaiketorres"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=500&lines=Bem-vindo(a);Transformando+ideias+em+experi%C3%AAncias;Codificar%2C+construir%2C+implantar+-+repetir!" alt="Typing SVG" /></a>
-</p>
+  <a href="https://github.com/kaiketorres"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidata;Desenvolvedor%20Front%20End;Mais%20de%201,5%20anos%20de%20experi%C3%AAncia%20em%20codifica%C3%A7%C3%A3o;Sempre%20aprendendo%20coisas%20novas&center=true&width=380&height=45"></a>
 
 <!-- Introdução -->
 <h2 align="center">
