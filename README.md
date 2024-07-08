@@ -15,7 +15,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Sou um estudante de Análise e Desenvolvimento de Sistemas focadp em desevolcimento mobile👨‍💻</b> 」
+    「 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento mobile.👨‍💻</b> 」
     <br>
     <br>
   </samp>
