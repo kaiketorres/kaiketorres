@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/kaiketorres"><img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindo%20ao%20meu%20perfil!!!;Desenvolvedor%20Mobile;Codificar,%20construir,%20implantar,%20repetir!!!!;Transformando%20ideias%20em%20experiências&center=true&width=480&height=45"></a>
-
+  
+<p align="center"> 
   <samp>
     <br>
     「 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento mobile.👨‍💻</b> 」
