@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/kaiketorres"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidata;Desenvolvedor%20Front%20End;Mais%20de%201,5%20anos%20de%20experi%C3%AAncia%20em%20codifica%C3%A7%C3%A3o;Sempre%20aprendendo%20coisas%20novas&center=true&width=380&height=45"></a>
+  <a href="https://github.com/kaiketorres"><img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindo%20ao%20meu%20perfil;Desenvolvedor%20Mobile;Estudante%20de%20(ADS);Sempre%20aprendendo%20coisas%20novas&center=true&width=380&height=45"></a>
 
 <!-- Introdução -->
 <h2 align="center">
