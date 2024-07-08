@@ -1,26 +1,17 @@
 
 <h2 align="center">
-  Bem-vindo ao Al Siam World!
+  Bem-vindo ao kaike World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
-
-
 <p align="center">
-  <a href="https://github.com/kaiketorres"><img src="https://readme-typing-svg.herokuapp.com/?lines=Programador%20Autodidata;Desenvolvedor%20Front%20End;Mais%20de%201,5%20anos%20de%20experi%C3%AAncia%20em%20codifica%C3%A7%C3%A3o;Sempre%20aprendendo%20coisas%20novas&center=true&width=380&height=45"></a>
+  <a href="https://github.com/kaiketorres"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Bem-vindo(a);Transformando+ideias+em+experi%C3%AAncias+m%C3%B3veis.;Codificar%2C+construir%2C+implantar+-+repetir!" alt="Typing SVG" /></a>
 </p>
 
-
-<a href="https://komarev.com/ghpvc/?username=kaiketorres">
-  <img align="right" src="https://komarev.com/ghpvc/?username=kaiketorres&label=Visitantes&color=0e75b6&style=flat" alt="Visitantes do Perfil" />
-</a>
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Introdução -->
-<h3 align="center">
+<h2 align="center">
         <samp>&gt; Olá, eu sou kaike</samp>
-</h3>
+</h2\>
 
 <p align="center"> 
   <samp>
@@ -73,20 +64,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 <br/>
-
-
-
-<p align="center">
-  <a href="https://github.com/kaiketorres">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaiketorres&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/kaiketorres">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiketorres&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
 
 <a> 
     <a href="https://github.com/kaiketorres"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kaiketorres&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
