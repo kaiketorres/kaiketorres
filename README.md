@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/kaiketorres"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Bem-vindo(a);Transformando+ideias+em+experi%C3%AAncias+m%C3%B3veis.;Codificar%2C+construir%2C+implantar+-+repetir!" alt="Typing SVG" /></a>
+  <a href="https://github.com/kaiketorres"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=500&lines=Bem-vindo(a);Transformando+ideias+em+experi%C3%AAncias;Codificar%2C+construir%2C+implantar+-+repetir!" alt="Typing SVG" /></a>
 </p>
 
 <!-- Introdução -->
@@ -16,7 +16,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Sou um estudante de Desenvolvimento web👨‍💻<b>Bangladesh</b> 」
+    「 Sou um estudante de Análise e Desenvolvimento de Sistemas focadp em desevolcimento mobile👨‍💻</b> 」
     <br>
     <br>
   </samp>
