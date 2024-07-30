@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/kaiketorres"><img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindo%20ao%20meu%20perfil!!!;Desenvolvedor%20Mobile&#128241;;Codificar,%20construir,%20implantar,%20repetir!!!!;Transformando%20ideias%20em%20experiências&center=true&width=480&height=45"></a>
+  <a href="https://github.com/kaiketorres"><img src="https://readme-typing-svg.herokuapp.com/?lines=Bem-vindo%20ao%20meu%20perfil!!!;Desenvolvedor%20Web/Mobile&#128241;;Codificar,%20construir,%20implantar,%20repetir!!!!;Transformando%20ideias%20em%20experiências&center=true&width=480&height=45"></a>
   
 <!-- Introdução -->
 <h2 align="center">
@@ -13,7 +13,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento mobile.👨‍💻</b> 」
+    「 Sou estudante de Análise e Desenvolvimento de Sistemas, Com foco em Desenvolvimento Web/Mobile.👨‍💻</b> 」
     <br>
     <br>
   </samp>
